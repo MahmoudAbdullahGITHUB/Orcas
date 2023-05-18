@@ -1,0 +1,264 @@
+<resources>
+    <string name="app_name">Orcas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="languages">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>VisualBasic</item>
+    </string-array>
+
+
+    <string name="next">Next</string>
+    <string name="delivery_your_items_anywhere_you_want">Delivery your items to anywhere you want</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="skip">Skip</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="password_is_required">password is required</string>
+    <string name="invalid_email">invalid email</string>
+    <string name="fullname_is_required">fullname is reuired</string>
+    <string name="email_is_required">email is required</string>
+    <string name="email_not_valid">Enter valid E-mail</string>
+    <string name="verification">Verify Your Account</string>
+    <string name="we_have_sent_otp_on_your_register_mobile_number">We have sent to you an access
+code via SMS or mobile number verification.</string>
+    <string name="continue_1">Continue</string>
+    <string name="resend_again">Resend again</string>
+    <string name="don_t_receive_otp">Don\'t receive OTP?</string>
+    <string name="or">Or</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="finish">Finish</string>
+    <string name="complete_you_account">Complete you account</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="insert_correct_otp">Please insert correct otp</string>
+    <string name="sec_left">%s Sec Left</string>
+    <string name="permission_string">This permission is needed</string>
+    <string name="birthdate">BirthDate</string>
+    <string name="enter_birth">Enter Your BirthDate</string>
+    <string name="chose_your_profile">Choose Your Profile Photo</string>
+    <string name="logout">Logout</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="cancel">cancel</string>
+    <string name="logout_msg">Are you sure?</string>
+    <string name="cannot_access_location">Can\'t Access your Location , Please open your location from device settings</string>
+    <string name="open">Open</string>
+    <string name="get_started">Get Started</string>
+    <string name="contact">Contact Us</string>
+    <string name="email">Email</string>
+    <string name="map">map</string>
+
+    <string name="wind">wind</string>
+
+    <string name="def">def</string>
+
+    <string name="person">person</string>
+
+    <string name="order">order</string>
+
+    <string name="people">people</string>
+
+    <string name="price_type">priceType</string>
+
+    <string name="payment_method">paymentMethod</string>
+
+    <string name="total_discount_ate">TotalDiscount Rate</string>
+
+    <string name="currency">currency</string>
+
+    <string name="amount_paid">Amount paid</string>
+
+    <string name="garbage">Automation of business in line with the spirit of the times and offer innovativeand successful solutions to suit the special requirements and needs of thecustomers</string>
+    <string name="close">close</string>
+    <string name="clients">Clients</string>
+    <string name="search">Search</string>
+    <!--    <string name="priceWith">د.ع %s</string>-->
+    <string name="priceWith">IQD  %s</string>
+    <string name="password_does_not_match">password does not match</string>
+    <string name="unit_type">/ %s</string>
+    <string name="unit_type2">unit_type</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="shop_name_is_required">shop_name_is_required</string>
+    <string name="shop_phone_is_required">shop_phone_is_required</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login_using_email_and_password">Login using email and password</string>
+    <string name="total_sales">Total Sales</string>
+    <string name="total_week">Total Week</string>
+    <string name="total_month">Total Month</string>
+    <string name="show_month_charts">Show Month charts</string>
+    <string name="next_client">Next Client</string>
+    <string name="view_all">View All</string>
+    <string name="operations">Operations</string>
+    <string name="collect_money">Collect Money</string>
+    <string name="no_data_now">No Data Now</string>
+    <string name="today_orders">Today Orders</string>
+    <string name="no_orders_now">No Orders Now</string>
+    <string name="start_work">Start Work</string>
+    <string name="synchronization">Synchronization</string>
+    <string name="visit_client">Visit Client</string>
+    <string name="new_order">New Order</string>
+    <string name="reports">Reports</string>
+    <string name="messages">Messages</string>
+    <string name="debt_collection">Debt Collection</string>
+    <string name="inventory_transfer">Inventory Transfer</string>
+    <string name="add_product">Add Product</string>
+    <string name="total_products">Total Products</string>
+    <string name="checkout">CheckOut</string>
+    <string name="shop_name">shop name</string>
+    <string name="shop_phone_number">shop phone number</string>
+    <string name="responsible_person_name">Name of customer</string>
+    <string name="responsible_person_phone">Phone of Customer</string>
+    <string name="company_name">company name</string>
+    <string name="tags">tags</string>
+    <string name="sales_invoices">sales invoices</string>
+    <string name="change_language">change Language</string>
+    <string name="change_password">change Password</string>
+    <string name="update_profile">update Profile</string>
+    <string name="search_here">Search Here...</string>
+    <string name="visit">Visit</string>
+    <string name="neworder">newOrder</string>
+    <string name="redeem">redeem</string>
+    <string name="collection">Collection</string>
+    <string name="call">Call</string>
+    <string name="this_is_a_title">This is a title</string>
+    <string name="are_you_sure_you_sure_to_delete">are you sure you sure to delete</string>
+    <string name="confirm">confirm</string>
+    <string name="select_product_to_create_order">select product to create order</string>
+    <string name="empty_invoices">empty invoices</string>
+    <string name="french">French</string>
+    <string name="please_check_your_email">Please check your email</string>
+    <string name="the_5_digit_has_been_sent_n_on_the_portal_email">The 5 digit has been sent \n on the portal email</string>
+    <string name="ok">ok</string>
+    <string name="powered_by_smart">Powered By Smart</string>
+    <string name="remaining">Remaining</string>
+    <string name="total">Total</string>
+    <string name="save">SAVE</string>
+    <string name="add_client">Add Client</string>
+    <string name="select_clients">Select Clients</string>
+    <string name="recover_your_password">Recover your password</string>
+    <string name="please_enter_e_mail">Please enter e-mail</string>
+    <string name="send_code">Send Code</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="mohammed_abd_el_monaim">mohammed abd el monaim</string>
+    <string name="loyalty_points">Loyalty Points</string>
+    <string name="set_a_new_password">Set a new password</string>
+    <string name="new_password">new password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="write_a_requirement_code">Write a requirement code</string>
+    <string name="scan_product_qrcode">Scan Product QrCode</string>
+    <string name="general_error">General Error</string>
+    <string name="totalprice">TotalPrice</string>
+    <string name="quantity">quantity</string>
+    <string name="kim">/ KIM</string>
+    <string name="printed">printed</string>
+    <string name="notes">Notes</string>
+    <string name="update">update</string>
+    <string name="invoice_id"># %s</string>
+    <string name="available_quantity">Available quantity</string>
+    <string name="price">Price</string>
+    <string name="orders">Orders</string>
+    <string name="visits">Visits</string>
+    <string name="collections">Collections</string>
+    <string name="please_select_the_customer_first">Please select the customer first!!</string>
+    <string name="please_select_the_purpose_first">Please select the purpose of visit first!!</string>
+    <string name="client_added_updated_successfully">Client added / Updated successfully</string>
+    <string name="invoice_list_got_successfully">Invoices List got successfully</string>
+    <string name="this_quantity_is_required">This quantity is required</string>
+    <string name="this_required_quantity_not_available">This required quantity not available</string>
+    <string name="your_max_discount_value_is_30">Your max discount value is %s </string>
+    <string name="your_max_amount_paid_value_is">Your max amount paid value is</string>
+    <string name="Select_the_Currency_First">Select the Currency First!!</string>
+    <string name="Select_the_Payment_Method_First">Select the Payment Method First!!</string>
+    <string name="No_clients_with_this_search">No clients with this search</string>
+    <string name="This_client_has_not_location_coordinates_yet">This client has not location coordinates yet!!</string>
+    <string name="No_invoices_with_this_search">No invoices with this search</string>
+    <string name="No_invoices_for_this_search_client">No invoices for this search client</string>
+    <string name="Please_select_the_client_first">Please select the client first!!</string>
+    <string name="please_enter_the_valid_paid_amount">please enter the valid paid amount!!</string>
+    <string name="successfully_collected">successfully collected</string>
+    <string name="successfully_visited">successfully visited</string>
+    <string name="successfully_reversed">successfully products returned</string>
+    <string name="new_collection">New Collection</string>
+    <string name="select_client">Select Client</string>
+    <string name="select_invoice">Select Invoice</string>
+    <string name="the_amount_of">The amount of</string>
+    <string name="statment">Statment</string>
+    <string name="paidup">PaidUp</string>
+    <string name="residual">Residual</string>
+    <string name="no_products">No Products</string>
+    <string name="addproduct">AddProduct</string>
+    <string name="totalproducts">TotalProducts</string>
+    <string name="login">LOGIN</string>
+    <string name="history">history</string>
+    <string name="tax_15">Tax(15)</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="suppliers">Suppliers</string>
+    <string name="print">Print</string>
+    <string name="share">Share</string>
+    <string name="show">Show</string>
+    <string name="quantity_required">Quantity required</string>
+    <string name="discount_rate">Discount Rate</string>
+    <string name="free_quantity">Free Quantity</string>
+    <string name="add">ADD</string>
+    <string name="bar_1">/ bar 1</string>
+    <string name="exchangerate">ExchangeRate/</string>
+    <string name="save_amp_print"><![CDATA[SAVE & Print]]></string>
+    <string name="smart_van_company">smart van company</string>
+    <string name="client_name">client name</string>
+    <string name="mob_no">Mobile Number</string>
+    <string name="sample_invoice">Simplified Sales Invoice</string>
+    <string name="date222">Date of supply:</string>
+    <string name="invoice_no">invoice number:</string>
+    <string name="pay_payment">Payment method</string>
+    <string name="invo_date">Invoice date</string>
+    <string name="printed_by">Printed by delegate</string>
+    <string name="details_">items data</string>
+    <string name="total_efore">Total before discount</string>
+    <string name="total_discount">Total discount</string>
+    <string name="total_invoice">total invoice</string>
+    <string name="paid">paid</string>
+    <string name="motabaqi">remaining</string>
+    <string name="empty_invoices_for_collect_money">empty invoices for collect money</string>
+    <string name="start_work_ques">Do you want to start work?</string>
+    <string name="start">Start</string>
+    <string name="end_work_ques">Do you want to end work?</string>
+    <string name="end">End</string>
+    <string name="end_work">End Work</string>
+    <string name="representative_name">representative name:</string>
+    <string name="cash_box">Cash Box</string>
+    <string name="full_address">Full Address</string>
+    <string name="new_visit">New Visit</string>
+    <string name="the_name_of_the_person_you_met">the name of the person you met</string>
+    <string name="the_purpose_of_the_visit">Choose the purpose of the visit</string>
+    <string name="summary_of_the_visit">Summary of the visit</string>
+    <string name="has_another_visit_been_scheduled">Has another visit been Scheduled ?</string>
+    <string name="select_date">Select Date</string>
+    <string name="return_invoice">Return Invoice</string>
+    <string name="redo">Redo</string>
+    <string name="i_received_the_returned_goods">I received the returned goods ?</string>
+    <string name="cause">Cause</string>
+    <string name="approval">Approval</string>
+    <string name="new_reverse">New Reverse</string>
+    <string name="reverse">Reverse</string>
+    <string name="total_after_return">Total after return</string>
+    <string name="returned_invoices">Returned Invoices</string>
+
+    <string-array name="purpose_list">
+        <item>Sell</item>
+        <item>Getting</item>
+        <item>Store Inventory</item>
+        <item>Questionnaire</item>
+        <item>Rack Adjustments</item>
+    </string-array>
+</resources>

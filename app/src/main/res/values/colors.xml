@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color">#4FA292</color>
+    <color name="app_color20">#334FA292</color>
+    <color name="app_color34">#4FA292</color>
+    <color name="app_color41">#4FA292</color>
+    <color name="app_color80">#4FA292</color>
+    <color name="app_color0">#4FA292</color>
+    <color name="second_color">#116E5C</color>
+    <color name="second_color55">#116E5C</color>
+    <color name="second_color94">#116E5C</color>
+    <color name="white_border10">#1A707070</color>
+    <color name="white_border13">#707070</color>
+    <color name="white_border17">#707070</color>
+    <color name="white_border19">#30707070</color>
+    <color name="closed_icon_icon">#414846</color>
+    <color name="closed_icon_icon70">#414846</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="text_bold_color">#2E4053</color>
+    <color name="white84">#FFFFFF</color>
+    <color name="black16">#000000</color>
+    <color name="text25">#1D2725</color>
+    <color name="text90">#1D2725</color>
+    <color name="text98">#1D2725</color>
+    <color name="button34">#4FA270</color>
+    <color name="fuchsia_button">#D38EBC</color>
+    <color name="red14">#24FA0505</color>
+
+
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FA0505</color>
+    <color name="off_white">#FAF9F6</color>
+    <color name="gray">#808080</color>
+    <color name="gray2">#80808080</color>
+
+    <color name="successColor">#27A821</color>
+    <color name="warningColor">#F36A10</color>
+    <color name="defaultTextColor">#FFFFFF</color>
+    <color name="errorColor">#E60019</color>
+    <color name="infoColor">#2A009E</color>
+    <color name="dotted_horizontal_line_color">#B3707070</color>
+    <color name="light_app_color">#B7D9D2</color>
+</resources>

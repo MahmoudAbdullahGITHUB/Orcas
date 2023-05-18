@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dTabFragmentText1">@dimen/_9sdp</dimen>
+    <dimen name="dTabFragmentText2">@dimen/_8sdp</dimen>
+    <dimen name="dTabFragmentText3">@dimen/_7sdp</dimen>
+
+    <dimen name="dCheckoutFragmentText1">@dimen/_9sdp</dimen>
+    <dimen name="dCheckoutFragmentText2">@dimen/_8sdp</dimen>
+    <dimen name="dCheckoutFragmentText3">@dimen/_7sdp</dimen>
+
+
+    <dimen name="dashWidth">15px</dimen>
+
+</resources>
